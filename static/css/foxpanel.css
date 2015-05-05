@@ -1,0 +1,17 @@
+
+.logContainer {
+  /* position: absolute; */
+  width: 95%;
+  height: 400px; 
+  min-height: 400px;
+   
+  background-color: #303030; 
+  color: #E0E0E0;
+  font-family: 'Inconsolata', 'sans-serif'; 
+
+  padding: 10px 20px;
+  margin: 10px;
+  overflow-y: scroll;
+}
+
+
